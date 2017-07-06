@@ -1,2 +1,3 @@
 # hello-world
-short description
+
+Hi! i am luca. i like aeropresscoffe and coding.
